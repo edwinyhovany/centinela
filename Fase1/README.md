@@ -1,6 +1,14 @@
 # 👁️ Proyecto **Centinela** — Fase 1: *CERV-D (Retinopatía Diabética)*
 ### Redes Neuronales — Deep Learning · Maestría en Ciencia de Datos
 
+URL Repositorio: https://github.com/edwinyhovany/centinela/
+
+Integrantes
+
+Edwin Yhovany Garzon Amezquita
+Jeferson Torrado Bayona
+
+
 Este cuaderno resuelve la Fase 1 del Proyecto Integrador *Centinela* de principio a fin, construyendo la línea base tabular con un Perceptrón Multicapa (MLP) sobreescribiendo el andamiaje guía.
 
 **El escenario.** Como ejercicio académico aplicado a la gestión analítica, asumimos el rol de consultores para la Dirección de Riesgo de una EPS. El objetivo es priorizar el tamizaje oftalmológico para pasar de un modelo reactivo a uno proactivo. La Fase 1 construye la línea base: un MLP tabular que, procesando variables morfológicas ya extraídas matemáticamente de la imagen del fondo de ojo, estima si un paciente tiene riesgo visual inminente.
