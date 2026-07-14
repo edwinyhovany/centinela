@@ -5,8 +5,9 @@ URL Repositorio: https://github.com/edwinyhovany/centinela/
 
 Integrantes
 
-Edwin Yhovany Garzon Amezquita
-Jeferson Torrado Bayona
+**-Edwin Yhovany Garzon Amezquita**
+
+**-Jeferson Torrado Bayona**
 
 **El escenario.** Como ejercicio académico aplicado a la gestión analítica, asumimos el rol de consultores para la Dirección de Riesgo de una EPS. El objetivo es priorizar el tamizaje oftalmológico para pasar de un modelo reactivo a uno proactivo. La Fase 1 construye la línea base: un MLP tabular que, procesando variables morfológicas ya extraídas matemáticamente de la imagen del fondo de ojo, estima si un paciente tiene riesgo visual inminente.
 
@@ -15,6 +16,7 @@ Este proyecto contiene los entregables y cuadernos que resuelven el proyecto. En
 
 ---
 **Contenido Fase 1***
+
 0. Preparación del entorno
 1. El problema y los datos reales (UCI ML Repo · Debrecen)
 2. Exploración mínima (EDA) → cada hallazgo decide algo
@@ -26,6 +28,7 @@ Este proyecto contiene los entregables y cuadernos que resuelven el proyecto. En
 8. Cierre · Autoevaluación contra la rúbrica
 
 **Contenido Fase 2**
+
 0. Preparación del entorno (semilla, *device*, paleta USTA, política de datos)
 1. **Rama A — CNN (imágenes):** datos sintéticos de formas · `DataLoader` provisto · `# TODO` modelo / *transfer learning* / *training loop* / Grad-CAM
 2. **Rama B — RNN/LSTM (series):** serie sintética · ventaneo provisto · `# TODO` arquitectura recurrente / *training loop*
