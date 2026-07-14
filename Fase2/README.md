@@ -5,8 +5,9 @@ URL Repositorio: https://github.com/edwinyhovany/centinela/
 
 Integrantes
 
-Edwin Yhovany Garzon Amezquita
-Jeferson Torrado Bayona
+**Edwin Yhovany Garzon Amezquita**
+
+**Jeferson Torrado Bayona**
 
 
 Este cuaderno resuelve la Fase 2 del Proyecto Integrador *Centinela* de principio a fin, del Proyecto Integrador *Centinela*: **Rama A** (clasificación de imágenes con CNN / *transfer learning*), **Rama B** (series temporales con RNN/LSTM/GRU) y **Rama C** (fusión multimodal)
@@ -14,6 +15,7 @@ Este cuaderno resuelve la Fase 2 del Proyecto Integrador *Centinela* de principi
 ---
 
 **Contenido**
+
 0. Preparación del entorno (semilla, *device*, paleta USTA, política de datos)
 1. **Rama A — CNN (imágenes):** datos sintéticos de formas · `DataLoader` provisto · `# TODO` modelo / *transfer learning* / *training loop* / Grad-CAM
 2. **Rama B — RNN/LSTM (series):** serie sintética · ventaneo provisto · `# TODO` arquitectura recurrente / *training loop*
