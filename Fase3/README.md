@@ -3,13 +3,21 @@
 
 URL Repositorio: **https://github.com/edwinyhovany/centinela/**
 
+Proyecto Centinela - CERV-D (Retinopatía Diabética) - Bienvenida
+URL Youtube : https://www.youtube.com/watch?v=IpdBSirCSoI
+
+Proyecto Centinela - Fase 3
+URL Youtube : https://www.youtube.com/watch?v=NbMV3hOyaWM
+
+#Repositorio de Modelos Entrenados#
+Carpeta Contiene:  Pesos calculados  + Modelos entrenados 
+*Se externalizaron del git porque son muy pesados*
+
 URL Google Drive Publica **https://drive.google.com/drive/folders/1bekjFkiIYBcBRMl23_vtW5vW61IkMqTD?usp=drive_link**
 
-Pesos Claulados  + Modelos entrenados 
+URL Repositorio Publico **https://poseidon.com.co/centinela/modelos_entrenados/**
 
 
-
-Se externalizaron del git porque son muy pesados 
 
 Integrantes
 
