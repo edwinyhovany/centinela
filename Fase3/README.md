@@ -1,4 +1,4 @@
-# 👁️ Proyecto **Centinela** — Fase 2: *CERV-D (Retinopatía Diabética)*
+# 👁️ Proyecto **Centinela** — Fase 3: *CERV-D (Retinopatía Diabética)*
 ### Redes Neuronales — Deep Learning · Maestría en Ciencia de Datos
 
 URL Repositorio: https://github.com/edwinyhovany/centinela/
