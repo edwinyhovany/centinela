@@ -1,30 +1,29 @@
 # 👁️ Proyecto **Centinela** — Fase 3: *CERV-D (Retinopatía Diabética)*
 ### Redes Neuronales — Deep Learning · Maestría en Ciencia de Datos
 
-URL Repositorio: **https://github.com/edwinyhovany/centinela/**
-
 Proyecto Centinela - CERV-D (Retinopatía Diabética) - Bienvenida
-URL Youtube : https://www.youtube.com/watch?v=IpdBSirCSoI
+
+**URL Youtube:** https://www.youtube.com/watch?v=IpdBSirCSoI 
 
 Proyecto Centinela - Fase 3
-URL Youtube : https://www.youtube.com/watch?v=NbMV3hOyaWM
 
-#Repositorio de Modelos Entrenados#
-Carpeta Contiene:  Pesos calculados  + Modelos entrenados 
+**URL Youtube:** https://www.youtube.com/watch?v=NbMV3hOyaWM 
+
+**Repositorio de Modelos Entrenados**
+Contenido Directorio:  Pesos calculados  + Modelos entrenados 
 *Se externalizaron del git porque son muy pesados*
 
 URL Google Drive Publica **https://drive.google.com/drive/folders/1bekjFkiIYBcBRMl23_vtW5vW61IkMqTD?usp=drive_link**
 
 URL Repositorio Publico **https://poseidon.com.co/centinela/modelos_entrenados/**
 
+**Integrantes**
 
+Edwin Yhovany Garzon Amezquita
 
-Integrantes
+Jeferson Torrado Bayona
 
-**Edwin Yhovany Garzon Amezquita**
-
-**Jeferson Torrado Bayona**
-
+---------------------------------------------------------------
 
 Este cuaderno resuelve la Fase 3 del Proyecto Integrador *Centinela* de principio a fin, pasa de comparar TensorFlow/Keras 3 y PyTorch lado a lado, por la aceleración en GPU con precisión mixta, los pipelines de datos eficientes y termina en el guardado y la exportación a ONNX lista para desplegar, reproduciendo en código las ideas de los Capítulos 3.1 a 3.3.
 
