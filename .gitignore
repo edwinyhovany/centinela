@@ -1,6 +1,4 @@
 /Fase2/training
-Fase3/pesos_entrenados+modelos/modelo_final_int8.onnx
+Fase3/pesos_entrenados+modelos/modelo_final.onnx
 Fase3/pesos_entrenados+modelos/modelo_final_fp32.pth
-Fase3/pesos_entrenados+modelos/modelo_final_fp32.pth
-Fase3/pesos_entrenados+modelos/modelo_final_fp32.pth
-/Fase3/pesos_entrenados+modelos
+Fase3/pesos_entrenados+modelos/modelo_final_amp.pt
